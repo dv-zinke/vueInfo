@@ -1,4 +1,8 @@
 Vue.js
+(Vue 2.x 문서 참고)
+
+[./vue-router] vue-router
+[./vuex] vuex
 ======
 
 뷰는 MVVM 패턴과 관련이 없지만 부분적으로 그것에 영감을 받음
